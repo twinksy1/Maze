@@ -8,7 +8,6 @@
 ---
 Then in cloned directory:
 * **Build**: *make*
-* **Build & run**: *make run*
 ---
 Execution: ***./main***
 ## FEATURES
